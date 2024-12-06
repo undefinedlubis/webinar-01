@@ -57,7 +57,7 @@ loader.load(
     model.position.set(0, 0, 0);
 
     //atur ukuran
-    model.scale.set(2, 2, 2);
+    model.scale.set(3, 3, 3);
 
     // Buat AnimationMixer untuk animasi model
     mixer = new THREE.AnimationMixer(model);
